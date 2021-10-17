@@ -1,0 +1,2 @@
+target1 ansible_host=xxxxx ansible_user=xxxxx ansible_password=xxxxx
+target2 ansible_host=xxxxx ansible_user=xxxxx ansible_password=xxxxx
